@@ -1,0 +1,1 @@
+First entry, and the start of my journal
