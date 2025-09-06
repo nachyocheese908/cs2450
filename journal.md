@@ -1,2 +1,4 @@
 First entry, and the start of my journal
-2nd entry, figured out my pip and made great ideas for our project. Really like my group!
+
+9/6/25 - Apparently a new issue was found in a grading script because my code would not pass graders for some reason. Glad Jeff and Curtis helped me to figure it out! Starting to get much more comfortable with git and c++. I have been doing a lot of code wars in
+c++ to help me with syntax and how to use things within the language.
